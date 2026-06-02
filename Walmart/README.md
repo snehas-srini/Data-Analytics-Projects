@@ -1,20 +1,24 @@
-# Walmart Sales Forecasting Project
+# Walmart Sales Forecasting
 
 ## Objective
+
 Analyze Walmart sales data and forecast sales for the next 12 weeks.
 
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+## Techniques Used
 
-## Files
-- Walmart_capstone_project.ipynb
-- Walmart DataSet.csv
+* Exploratory Data Analysis (EDA)
+* Outlier Analysis
+* Correlation Analysis
+* Sales Forecasting
 
-## Key Findings
-- Store 20 had the highest sales.
-- Store 33 had the lowest sales.
-- Sales forecasts were generated for the next 12 weeks.
+## Tools & Libraries
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+
+## Outcome
+
+Performed sales analysis on Walmart store data, identified key sales trends and factors affecting sales, and generated sales forecasts to support business decision-making.
