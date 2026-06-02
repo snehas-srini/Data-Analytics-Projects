@@ -4,11 +4,11 @@ A collection of Data Analytics and Data Science projects demonstrating skills in
 
 ## Projects
 
-1. Walmart Sales Forecasting
-2. Netflix Recommendation System
-3. COVID-19 Time Series Forecasting
-4. Pizza Sales Analysis Dashboard
-
+- Walmart Sales Forecasting
+- Netflix Recommendation System
+- COVID-19 Time Series Forecasting
+- Pizza Sales Analysis Dashboard
+  
 ## Author
 
 **Sneha S**
