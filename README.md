@@ -4,6 +4,13 @@ A collection of Data Analytics and Data Science projects demonstrating skills in
 
 ## Projects
 
+1. Walmart Sales Forecasting
+2. Netflix Recommendation System
+3. COVID-19 Time Series Forecasting
+4. Pizza Sales Analysis Dashboard
+
+---
+
 ### 1. Walmart Sales Forecasting
 
 **Objective:** Analyze Walmart sales data and forecast sales for the next 12 weeks.
